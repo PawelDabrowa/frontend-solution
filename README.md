@@ -27,8 +27,9 @@ npm test
 The tests will automatically run using Jest and React Testing Library.
 
 
-Project Structure:
+## Project Structure
 
+```plaintext
 frontend-test-project/
 │
 ├── src/
@@ -40,3 +41,4 @@ frontend-test-project/
 ├── package.json                     # Project dependencies and scripts
 ├── tsconfig.json                    # TypeScript configuration
 
+```
