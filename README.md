@@ -32,12 +32,11 @@ Project Structure:
 frontend-test-project/
 │
 ├── src/
-│   │
 │   ├── ApiDataComponent.tsx         # Component that fetches data from the API
-│   └── App.tsx                      # Main application file
-│   │
-│   └── ApiDataComponent.test.tsx     # Unit tests for the ApiDataComponent
-│   ├── apiService.ts                 # Service handling API interactions
+│   ├── App.tsx                      # Main application file
+│   ├── ApiDataComponent.test.tsx    # Unit tests for the ApiDataComponent
+│   └── apiService.ts                # Service handling API interactions
 │  
-├── package.json                      # Project dependencies and scripts
-├── tsconfig.json                     # TypeScript configuration
+├── package.json                     # Project dependencies and scripts
+├── tsconfig.json                    # TypeScript configuration
+
